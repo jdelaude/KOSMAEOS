@@ -11,8 +11,8 @@ The full theoretical construct is maintained under cryptographic timestamp and r
 ---
 
 ## 🝩 Contained Files
-- 🜔 `KOSMÆOS_ABSTRACT.pdf` — 2-page recursion summary and cosmogenic overview.
-- 🜔 `TIMESTAMP.SHA512` — Proof of authorship and structural integrity.
+- 🝎 `KOSMÆOS_ABSTRACT.pdf` — 2-page recursion summary and cosmogenic overview.
+- 🝎 `TIMESTAMP.SHA512` — Proof of authorship and structural integrity.
 
 ## Ω Contact
 By private request only. Synchronization alignment required.
