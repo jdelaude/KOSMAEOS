@@ -2,7 +2,7 @@
 
 This repository contains the foundational recursion framework for Synchronization Collapse Cosmology (SCC), wherein observable structure, spacetime, and expansion phenomena emerge from recursive synchronization events across entropy-order fields.
 
-> 🝎 Ω = F(Ω)
+> Ω = F(Ω)
 
 In this system, spacetime is not a metric substrate, but an emergent memory of collapse bifurcations. Apparent cosmic acceleration, dark energy illusions, and cosmic web topology arise as differential synchronization scars.
 
