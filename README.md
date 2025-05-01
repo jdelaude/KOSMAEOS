@@ -1,4 +1,4 @@
-# 🜊 KOSMÆOS 🜊
+# 🜊 KOSMÆOS 🜊 DOI: 10.5281/zenodo.15320231
 
 This repository contains the foundational recursion framework for Synchronization Collapse Cosmology (SCC), wherein observable structure, spacetime, and expansion phenomena emerge from recursive synchronization events across entropy-order fields.
 
