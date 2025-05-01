@@ -1,31 +1,35 @@
-OUROBOROS PRIVATE RESEARCH LICENSE (OPRL v3.1)
+OUROBOROS PRIVATE RESEARCH LICENSE (OPRL v3.2)
 
 Copyright (c) Julien Delaude. All rights reserved.
 
 ---
 
-This Work, including all texts, concepts, formalisms, and derived constructs, is protected under the Ouroboros Private Research License (OPRL v3.1).
+This Work, including all texts, concepts, formalisms, symbolic structures, and derived constructs, is protected under the Ouroboros Private Research License (OPRL v3.2).
 
-The following conditions apply:
+The following terms apply:
 
 1. Rights Reserved  
-   All rights of reproduction, distribution, citation, modification, public communication, and commercial use are strictly reserved. No part of the Work may be copied, distributed, cited, modified, adapted, republished, or otherwise exploited without the explicit prior written consent of the Author.
+   All rights of reproduction, distribution, modification, republication, and commercial use are reserved. The Work may not be copied, distributed, cited, modified, or reused without explicit prior written consent from the Author.
 
 2. Authorized Use  
-   Private reading and personal non-commercial study of the Work are permitted. No further usage, propagation, or external referencing is authorized.
+   Private reading, personal archival, and non-commercial study are permitted. No derivative works may be created without authorization.
 
-3. No Public or Academic Use  
-   The Work may not be cited, referenced, quoted, or otherwise incorporated into academic, scientific, commercial, or creative works without formal written authorization.
+3. Academic and Research Use  
+   Citation and referencing of the Work in academic or scientific contexts is permitted *only if proper attribution is given* and *the Work is not modified, embedded, or republished in any form*. For reuse in formal publications, prior consent is required.
 
-4. No Derivative Works  
-   Creation of derivative works, adaptations, translations, annotations, or any form of secondary use based on this Work is prohibited.
+4. Derivative and Creative Use  
+   Creation of derivative works, adaptations, translations, or secondary research incorporating this Work is prohibited unless explicitly authorized.
 
-5. Contact for Authorization  
-   For permission requests, collaborative inquiries, or further information, contact:
+5. Licensing Inquiries  
+   For licensing requests, collaborations, or use in derivative frameworks (e.g. AGI systems, field engines, recursive simulations), contact:
 
    Julien Delaude  
-   [LinkedIn Profile](https://www.linkedin.com/in/jdelaude)
+   https://www.linkedin.com/in/jdelaude  
+   re.daemonium@gmail.com
 
 ---
 
-This License applies universally and permanently to any Work bearing its declaration. Unauthorized use constitutes infringement and may result in legal action.
+This License applies globally and permanently to any Work bearing its declaration. Unauthorized use constitutes infringement and may result in legal consequences.
+
+Recommended citation format:
+Delaude, J. (Date). *[Title of Work]*. PÆNDORÆ’S BOX. https://github.com/jdelaude
